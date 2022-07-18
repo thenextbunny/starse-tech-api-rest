@@ -1,0 +1,1 @@
+### Para rodar o projeto desta pasta use o seguinte comando no terminal da pasta: ` git init `
